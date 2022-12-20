@@ -9,6 +9,7 @@ public class Test : MonoBehaviour
 {
     public void Prinf()
     {
-        Debug.Log("Hello");
+        string name = "Hello";
+        Debug.Log(name);
     }
 }
