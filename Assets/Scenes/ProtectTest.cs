@@ -5,12 +5,15 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.IO;
 
-public class Test : MonoBehaviour
+public class ProtectTest : MonoBehaviour
 {
-    public void Prinf()
+    void Start()
     {
-        string name = "Hello";
-        name = "Hello Word";
-        Debug.Log(name);
+        
+    }
+
+    void Update()
+    {
+        
     }
 }
