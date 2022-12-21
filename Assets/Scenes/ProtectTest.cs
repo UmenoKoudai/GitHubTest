@@ -9,11 +9,6 @@ public class ProtectTest : MonoBehaviour
 {
     void Start()
     {
-        
-    }
-
-    void Update()
-    {
-        
+        Debug.Log("Hello");
     }
 }
